@@ -16,7 +16,6 @@ Project is created with:
 * npm v6.14.8
 * Express ^4.17.1v
 * Pug ^3.0.2v
-* Mongoose ^5.11.19v
 * Axois ^0.21.1v
 * Nodemom ^2.0.7v
 
